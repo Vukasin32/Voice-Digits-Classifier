@@ -1,5 +1,5 @@
 # Voice-Digits-Classifier
-Classifier of digits by voice in real time.
+Classifier of digits spoken by user in real time.
 This was a university assignment for the "Speech Processing and Recognition" class. <br/>
 Idea of project is to implement classifier of digits by voice in real time.
 
